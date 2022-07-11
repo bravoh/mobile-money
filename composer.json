@@ -71,6 +71,7 @@
             }
         }
     },
+    
     "config": {
         "sort-packages": true
     }
